@@ -1,0 +1,26 @@
+.desi .title {
+  margin: 0;
+  background-color: #31b675;
+}
+.desi h3 {
+  margin: 0;
+  padding: 15px 0 15px 0;
+  color: white;
+}
+
+.blogItem-link i {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  z-index: 5;
+  font-size: 40px;
+  color: white;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+  .blogItem-link i {
+    opacity: 1;
+  }
+}

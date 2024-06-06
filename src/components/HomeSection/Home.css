@@ -1,0 +1,57 @@
+.slider {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 40px;
+}
+.homeabout .top {
+  padding-top: 20px;
+}
+/* *--------------------start slide form-----------------* */
+.slide-form h2 {
+  margin-top: 30px;
+}
+
+.slide-form {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 35%;
+  height: 69vh;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.slide-form input {
+  margin-top: 20px;
+}
+
+.slide-form .flex-space input:nth-child(odd) {
+  margin-right: 20px;
+}
+
+.slide-form .submit {
+  background-color: #31b675;
+}
+
+@media screen and (max-width: 768px) {
+  .slider {
+    height: 65vh;
+  }
+  .slider img {
+    height: 65vh;
+  }
+  .slide-form {
+    left: 5%;
+    top: 40%;
+    width: 90%;
+    height: 82vh;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .slide-form {
+    display: none;
+  }
+}
+/* *--------------------end slide form-----------------* */
