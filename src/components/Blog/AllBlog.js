@@ -4,7 +4,7 @@ import BlogData from "./BlogData";
 import "./BlogHome.css";
 
 const AllBlog = () => {
-  const [items, setItems] = useState(BlogData);
+  const [items] = useState(BlogData);
 
   return (
     <>
