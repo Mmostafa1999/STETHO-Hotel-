@@ -41,7 +41,7 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
 ## Contact
 
 - **Author**: Mahmoud Mustafa
-- **Website**: [Your Website]([https://your-website.com](https://github.com/Mmostafa1999))
+- [Your Website](https://github.com/Mmostafa1999))
 - [Email](mahmoud.mostafa4467@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-mustafa-642434188/)
 
