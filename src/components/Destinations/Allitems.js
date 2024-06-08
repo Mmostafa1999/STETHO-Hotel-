@@ -4,7 +4,7 @@ import Sdata from "./Sdata";
 import "./Destinations.css";
 
 const Allitems = () => {
-  const [items, setItem] = useState(Sdata);
+  const [items] = useState(Sdata);
 
   return (
     <>
