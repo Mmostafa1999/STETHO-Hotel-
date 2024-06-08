@@ -15,7 +15,7 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
-- [Featured Skills](#featured-skills)
+
 
 ## Features
 
