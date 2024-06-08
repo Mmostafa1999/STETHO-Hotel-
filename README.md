@@ -38,3 +38,9 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
   - Express.js: Web application framework for Node.js.
   - MongoDB: NoSQL database for storing and managing data.
 
+  ## screenshots
+  ## Screenshots
+
+![Homepage](/path/to/homepage-screenshot.png)
+![Room Listings](/path/to/room-listings-screenshot.png)
+![Reservation Booking](/path/to/reservation-booking-screenshot.png)
