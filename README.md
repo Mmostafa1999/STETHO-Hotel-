@@ -39,9 +39,10 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
   - MongoDB: NoSQL database for storing and managing data.
  
 ## Screenshots
-#### STETHO Hotel Homepage
+#### 1-STETHO Hotel Homepage
 ![Homepage](/Shoots/homepage.png)
-![Room Listings](/screenshots/room-listings.png)
+#### 2-STETHO Hotel Gallery
+![Gallery](/Shoots/gallery.png)
 ![Reservation Booking](/screenshots/reservation-booking.png)
 
 
