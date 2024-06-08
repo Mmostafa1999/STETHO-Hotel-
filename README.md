@@ -37,6 +37,13 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
   - Node.js: JavaScript runtime for building server-side applications.
   - Express.js: Web application framework for Node.js.
   - MongoDB: NoSQL database for storing and managing data.
+ 
+## Screenshots
+
+![Homepage](/Shoots/homepage.png)
+![Room Listings](/screenshots/room-listings.png)
+![Reservation Booking](/screenshots/reservation-booking.png)
+
 
 ## Contact
 
