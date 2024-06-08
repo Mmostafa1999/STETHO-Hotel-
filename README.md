@@ -38,11 +38,11 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
   - Express.js: Web application framework for Node.js.
   - MongoDB: NoSQL database for storing and managing data.
 
-  ## screenshots
-  ## Screenshots
-<div>
-  <img src="/path/to/homepage-screenshot.png"/>
-</div>
+## Contact
 
-![Room Listings](/path/to/room-listings-screenshot.png)
-![Reservation Booking](/path/to/reservation-booking-screenshot.png)
+- **Author**: Mahmoud Mustafa
+- **Website**: [Your Website]([https://your-website.com](https://github.com/Mmostafa1999))
+- **Email**: mahmoud.mostafa4467@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahmoud-mustafa-642434188/)
+
+
