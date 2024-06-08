@@ -40,7 +40,9 @@ Explore the live version of the Hotel Template Website: [Live Netlify](https://h
 
   ## screenshots
   ## Screenshots
+<div>
+  <img src="/path/to/homepage-screenshot.png"/>
+</div>
 
-![Homepage](/path/to/homepage-screenshot.png)
 ![Room Listings](/path/to/room-listings-screenshot.png)
 ![Reservation Booking](/path/to/reservation-booking-screenshot.png)
